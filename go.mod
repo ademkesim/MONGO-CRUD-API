@@ -1,3 +1,5 @@
+// +heroku goVersion go1.16
+
 module fiber-mongo-api
 
 go 1.16

@@ -16,5 +16,5 @@ func main() {
 	//routes
 	routes.CustomerRoute(app)
 
-	app.Listen(":6000")
+	app.Listen(":3000")
 }
